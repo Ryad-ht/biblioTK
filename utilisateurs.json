@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "email": "user1@exemple.com",
+        "nom": "NomUtilisateur1",
+        "prenom": "PrenomUtilisateur1",
+        "statut_abonne": true
+    },
+    {
+        "id": 2,
+        "email": "user2@exemple.com",
+        "nom": "NomUtilisateur2",
+        "prenom": "PrenomUtilisateur2",
+        "statut_abonne": true
+    },
+    {
+        "id": 3,
+        "email": "user3@exemple.com",
+        "nom": "NomUtilisateur3",
+        "prenom": "PrenomUtilisateur3",
+        "statut_abonne": false
+    },
+    {
+        "id": 4,
+        "email": "user4@exemple.com",
+        "nom": "NomUtilisateur4",
+        "prenom": "PrenomUtilisateur4",
+        "statut_abonne": false
+    },
+    {
+        "id": 5,
+        "email": "user5@exemple.com",
+        "nom": "NomUtilisateur5",
+        "prenom": "PrenomUtilisateur5",
+        "statut_abonne": true
+    },
+    {
+        "id": 6,
+        "email": "user6@exemple.com",
+        "nom": "NomUtilisateur6",
+        "prenom": "PrenomUtilisateur6",
+        "statut_abonne": false
+    },
+    {
+        "id": 7,
+        "email": "user7@exemple.com",
+        "nom": "NomUtilisateur7",
+        "prenom": "PrenomUtilisateur7",
+        "statut_abonne": true
+    },
+    {
+        "id": 8,
+        "email": "user8@exemple.com",
+        "nom": "NomUtilisateur8",
+        "prenom": "PrenomUtilisateur8",
+        "statut_abonne": false
+    },
+    {
+        "id": 9,
+        "email": "user9@exemple.com",
+        "nom": "NomUtilisateur9",
+        "prenom": "PrenomUtilisateur9",
+        "statut_abonne": false
+    },
+    {
+        "id": 10,
+        "email": "user10@exemple.com",
+        "nom": "NomUtilisateur10",
+        "prenom": "PrenomUtilisateur10",
+        "statut_abonne": false
+    }
+]

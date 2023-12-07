@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "nom": "Nom1",
+        "prenom": "Prenom1",
+        "date_naissance": "1930-02-24",
+        "courant_litteraire": "Courant5"
+    },
+    {
+        "id": 2,
+        "nom": "Nom2",
+        "prenom": "Prenom2",
+        "date_naissance": "1867-03-13",
+        "courant_litteraire": "Courant2"
+    },
+    {
+        "id": 3,
+        "nom": "Nom3",
+        "prenom": "Prenom3",
+        "date_naissance": "1939-08-27",
+        "courant_litteraire": "Courant1"
+    },
+    {
+        "id": 4,
+        "nom": "Nom4",
+        "prenom": "Prenom4",
+        "date_naissance": "1806-03-27",
+        "courant_litteraire": "Courant1"
+    },
+    {
+        "id": 5,
+        "nom": "Nom5",
+        "prenom": "Prenom5",
+        "date_naissance": "1963-01-08",
+        "courant_litteraire": "Courant4"
+    },
+    {
+        "id": 6,
+        "nom": "Nom6",
+        "prenom": "Prenom6",
+        "date_naissance": "1986-03-24",
+        "courant_litteraire": "Courant1"
+    },
+    {
+        "id": 7,
+        "nom": "Nom7",
+        "prenom": "Prenom7",
+        "date_naissance": "1854-07-18",
+        "courant_litteraire": "Courant5"
+    },
+    {
+        "id": 8,
+        "nom": "Nom8",
+        "prenom": "Prenom8",
+        "date_naissance": "1968-08-18",
+        "courant_litteraire": "Courant2"
+    },
+    {
+        "id": 9,
+        "nom": "Nom9",
+        "prenom": "Prenom9",
+        "date_naissance": "1823-09-18",
+        "courant_litteraire": "Courant1"
+    },
+    {
+        "id": 10,
+        "nom": "Nom10",
+        "prenom": "Prenom10",
+        "date_naissance": "1968-12-15",
+        "courant_litteraire": "Courant1"
+    },
+    {
+        "id": 11,
+        "nom": "Nom11",
+        "prenom": "Prenom11",
+        "date_naissance": "1907-09-17",
+        "courant_litteraire": "Courant1"
+    },
+    {
+        "id": 12,
+        "nom": "Nom12",
+        "prenom": "Prenom12",
+        "date_naissance": "1915-01-24",
+        "courant_litteraire": "Courant5"
+    },
+    {
+        "id": 13,
+        "nom": "Nom13",
+        "prenom": "Prenom13",
+        "date_naissance": "1835-01-09",
+        "courant_litteraire": "Courant3"
+    },
+    {
+        "id": 14,
+        "nom": "Nom14",
+        "prenom": "Prenom14",
+        "date_naissance": "1933-12-05",
+        "courant_litteraire": "Courant1"
+    },
+    {
+        "id": 15,
+        "nom": "Nom15",
+        "prenom": "Prenom15",
+        "date_naissance": "1854-12-16",
+        "courant_litteraire": "Courant4"
+    },
+    {
+        "id": 16,
+        "nom": "Nom16",
+        "prenom": "Prenom16",
+        "date_naissance": "1850-03-05",
+        "courant_litteraire": "Courant4"
+    },
+    {
+        "id": 17,
+        "nom": "Nom17",
+        "prenom": "Prenom17",
+        "date_naissance": "1820-08-05",
+        "courant_litteraire": "Courant4"
+    },
+    {
+        "id": 18,
+        "nom": "Nom18",
+        "prenom": "Prenom18",
+        "date_naissance": "1874-01-25",
+        "courant_litteraire": "Courant2"
+    },
+    {
+        "id": 19,
+        "nom": "Nom19",
+        "prenom": "Prenom19",
+        "date_naissance": "1901-03-18",
+        "courant_litteraire": "Courant5"
+    },
+    {
+        "id": 20,
+        "nom": "Nom20",
+        "prenom": "Prenom20",
+        "date_naissance": "1943-03-12",
+        "courant_litteraire": "Courant1"
+    }
+]
